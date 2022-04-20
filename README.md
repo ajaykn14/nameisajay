@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nameisajay
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT AND C++
+- 🌱 I’m currently learning core java,ds&al...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram.com/nameis.ajay
 
